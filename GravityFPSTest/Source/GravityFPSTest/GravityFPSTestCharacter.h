@@ -20,6 +20,7 @@ class UBiopadComponent;
 class UCapsuleComponent;
 class UFlyingTimerComponent;
 class UTP_WeaponComponent;
+class ACubeProjectile;
 struct FInputActionValue;
 
 DECLARE_LOG_CATEGORY_EXTERN(LogTemplateCharacter, Log, All);

@@ -7,7 +7,7 @@
 #include "FlyingTimerComponent.generated.h"
 
 class AGravityFPSTestPlayerController;
-class AGravityFPSTestPlayerCharacter;
+class AGravityFPSTestCharacter;
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class GRAVITYFPSTEST_API UFlyingTimerComponent : public UActorComponent
 {

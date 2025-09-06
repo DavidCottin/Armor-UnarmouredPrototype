@@ -4,8 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "MissileProjectile.h"
 #include "MissileManager.generated.h"
 
+class AMissileProjectile;
 UCLASS()
 class GRAVITYFPSTEST_API UMissileManagerSubsystem : public UGameInstanceSubsystem
 {
